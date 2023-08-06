@@ -1,0 +1,6 @@
+[submodule "இனிபெயர்ப்பாளர்"]
+	path = இனிபெயர்ப்பாளர்
+	url = https://github.com/247i/IniTranslator.git
+[submodule "எபொதிருத்தி"]
+	path = எபொதிருத்தி
+	url = https://github.com/247i/POEdit.git
