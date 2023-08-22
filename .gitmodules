@@ -4,3 +4,9 @@
 [submodule "எபொதிருத்தி"]
 	path = எபொதிருத்தி
 	url = https://github.com/247i/POEdit.git
+[submodule "உரைபெறு"]
+	path = உரைபெறு
+	url = https://github.com/247i/GetText.git
+[submodule "மொழியாக்கம்"]
+	path = மொழியாக்கம்
+	url = https://github.com/247i/lokalize.git
