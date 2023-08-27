@@ -13,3 +13,6 @@
 [submodule "எஆவமாதிருத்திமொழியாக்கம்"]
 	path = எஆவமாதிருத்திமொழியாக்கம்
 	url = https://github.com/247i/PDFXLocalizer.git
+[submodule "பெயர்ப்பாளர்அறிவு"]
+	path = பெயர்ப்பாளர்அறிவு
+	url = https://github.com/247i/TranslatorWise.git
