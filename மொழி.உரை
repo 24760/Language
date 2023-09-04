@@ -1,4 +1,5 @@
 # மொழி
+- git submodule add https://github.com/247i/AIMPlng.git ஆஇஊஇ_மொழி 
 - git submodule add https://github.com/247i/GetText.git உரைபெறு 
 - git submodule add https://github.com/247i/IniTranslator.git இனிபெயர்ப்பாளர் 
 - git submodule add https://github.com/247i/lokalize.git மொழியாக்கம் 
