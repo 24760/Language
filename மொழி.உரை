@@ -5,4 +5,5 @@
 - git submodule add https://github.com/247i/lokalize.git மொழியாக்கம் 
 - git submodule add https://github.com/247i/PDFXLocalizer.git எஆவமாதிருத்திமொழியாக்கம்
 - git submodule add https://github.com/247i/POEdit.git எபொதிருத்தி
+- git submodule add https://github.com/247i/ScreenToGifTranslator திரைபிடிபடமொழியாக்கம்
 - git submodule add https://github.com/247i/TranslatorWise.git பெயர்ப்பாளர்அறிவு 

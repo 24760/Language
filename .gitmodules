@@ -19,3 +19,6 @@
 [submodule "ஆஇஊஇ_மொழி"]
 	path = ஆஇஊஇ_மொழி
 	url = https://github.com/247i/AIMPlng.git
+[submodule "திரைபிடிபடமொழியாக்கம்"]
+	path = திரைபிடிபடமொழியாக்கம்
+	url = https://github.com/247i/ScreenToGifTranslator
