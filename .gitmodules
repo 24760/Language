@@ -19,3 +19,6 @@
 [submodule "திரைபிடிபடமொழியாக்கம்"]
 	path = திரைபிடிபடமொழியாக்கம்
 	url = https://github.com/247i/ScreenToGifTranslator
+[submodule "தமிழாக்கம்"]
+	path = தமிழாக்கம்
+	url = https://github.com/247i/TACETr.git
