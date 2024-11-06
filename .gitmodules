@@ -22,3 +22,6 @@
 [submodule "தமிழாக்கம்"]
 	path = தமிழாக்கம்
 	url = https://github.com/247i/TACETr.git
+[submodule "பெயர்த்தீர்வு"]
+	path = பெயர்த்தீர்வு
+	url = https://github.com/247i/Transolution.git
