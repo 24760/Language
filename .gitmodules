@@ -25,3 +25,6 @@
 [submodule "பெயர்த்தீர்வு"]
 	path = பெயர்த்தீர்வு
 	url = https://github.com/247i/Transolution.git
+[submodule "ஓமேகாடி"]
+	path = ஓமேகாடி
+	url = https://github.com/247i/OmegaT.git
