@@ -8,3 +8,6 @@
 - git submodule add https://github.com/247i/ScreenToGifTranslator திரைபிடிபடமொழியாக்கம்
 - git submodule add https://github.com/247i/TACETr.git தமிழாக்கம்
 - git submodule add https://github.com/247i/TranslatorWise.git பெயர்ப்பாளர்அறிவு 
+- git submodule add https://github.com/247i/Transolution.git பெயர்த்தீர்வு 
+- git submodule add https://github.com/247i/OmegaT.git ஓமேகாடி 
+- git submodule add https://github.com/247i/HTMLHelpWorkshop.git உஉகுமொஉதவிகடை
